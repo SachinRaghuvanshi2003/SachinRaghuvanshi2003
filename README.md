@@ -2,8 +2,9 @@
 - 👀 I’m interested in Coding and Management
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
-         E-mail ID: sachinrghvnsh@gmail.com
+- 📫 You can contact me at:
+         E-mail: sachinrghvnsh@gmail.com
+        
 
 <!---
 SachinRaghuvanshi2003/SachinRaghuvanshi2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
