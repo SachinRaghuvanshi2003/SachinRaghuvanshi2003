@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SachinRaghuvanshi2003
-- 👀 I’m interested in Coding and Management
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Coding and Machine Learning
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on decent ML projects.
 - 📫 You can contact me at:
          E-mail: sachinrghvnsh@gmail.com
         
